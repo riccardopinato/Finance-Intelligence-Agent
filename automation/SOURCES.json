@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "repositories": [
+    {
+      "full_name": "riccardopinato/App-Factory-Core",
+      "purpose": "Policy generale"
+    },
+    {
+      "full_name": "riccardopinato/Idee-app-Archivi-riferimenti",
+      "purpose": "Dossier finanziario e backlog"
+    },
+    {
+      "full_name": "riccardopinato/App-Factory-Agent-Core",
+      "purpose": "Orchestratore riutilizzabile"
+    }
+  ]
+}
