@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PortfolioPositionSyntheticDesignV1",
+  "description": "Contract only; never commit real private positions in public repo",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "instrument",
+    "quantity",
+    "cost_currency",
+    "cost_basis_amount",
+    "as_of_utc"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "instrument": {
+      "type": "object",
+      "required": [
+        "symbol",
+        "exchange"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "symbol": {
+          "type": "string"
+        },
+        "exchange": {
+          "type": "string"
+        }
+      }
+    },
+    "quantity": {
+      "type": "number",
+      "minimum": 0
+    },
+    "cost_currency": {
+      "type": "string",
+      "pattern": "^[A-Z]{3}$"
+    },
+    "cost_basis_amount": {
+      "type": "number",
+      "minimum": 0
+    },
+    "fees_amount": {
+      "type": "number",
+      "minimum": 0
+    },
+    "as_of_utc": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "synthetic_fixture": {
+      "const": true
+    }
+  }
+}
