@@ -2,7 +2,13 @@
 
 > Generato da `scripts/sync_context.py`. Raccoglie solo commit GitHub; NON certifica codice, CI, sicurezza, provider, dispositivo o pubblicazione.
 
-**In attesa della prima esecuzione autorizzata del workflow.**
+| Repository | Utilizzo | Branch | SHA | Data commit (UTC) |
+|---|---|---|---|---|
+| [riccardopinato/App-Factory-Agent-Core](https://github.com/riccardopinato/App-Factory-Agent-Core) | Orchestratore riutilizzabile | `main` | [`f6b4d6fd022e`](https://github.com/riccardopinato/App-Factory-Agent-Core/commit/f6b4d6fd022e34c1784e2915733b89bf5ee24d74) | 2026-11-12T02:54:54Z |
+| [riccardopinato/App-Factory-Core](https://github.com/riccardopinato/App-Factory-Core) | Policy generale | `main` | [`c5adc147046b`](https://github.com/riccardopinato/App-Factory-Core/commit/c5adc147046beb7024629466d10eeb799c3c2619) | 2026-11-11T12:33:47Z |
+| [riccardopinato/Idee-app-Archivi-riferimenti](https://github.com/riccardopinato/Idee-app-Archivi-riferimenti) | Dossier finanziario e backlog | `main` | [`001df17264ca`](https://github.com/riccardopinato/Idee-app-Archivi-riferimenti/commit/001df17264cadbf7d7492f25557a3b4562cbf0a4) | 2026-11-12T13:35:57Z |
+
+I cambiamenti indicano nuovi commit, non modifiche automaticamente approvate o importate nei moduli.
 
 ## Vincoli di aggiornamento
 
