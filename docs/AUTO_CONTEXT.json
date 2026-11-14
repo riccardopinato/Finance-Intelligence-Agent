@@ -3,10 +3,10 @@
   "sources": [
     {
       "branch": "main",
-      "commit_date": "2026-11-12T21:36:25Z",
+      "commit_date": "2026-11-13T19:37:34Z",
       "purpose": "Orchestratore riutilizzabile",
       "repository": "riccardopinato/App-Factory-Agent-Core",
-      "sha": "7616459c91311f7ce0b5d3ca8b0d97a9363b7a52"
+      "sha": "f2b4c28cc3a9afa4ef39c6d32fe0a8ef14dac512"
     },
     {
       "branch": "main",
@@ -17,10 +17,10 @@
     },
     {
       "branch": "main",
-      "commit_date": "2026-11-13T01:22:50Z",
+      "commit_date": "2026-11-13T19:30:56Z",
       "purpose": "Dossier finanziario e backlog",
       "repository": "riccardopinato/Idee-app-Archivi-riferimenti",
-      "sha": "9a7aedfcffdfbd77db420159968882d166ee423f"
+      "sha": "8fdc4e1f526d54287b52ad3433004fb4f89b7dc9"
     }
   ]
 }
