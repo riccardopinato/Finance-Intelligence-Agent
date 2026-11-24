@@ -5,7 +5,7 @@
 | Repository | Utilizzo | Branch | SHA | Data commit (UTC) |
 |---|---|---|---|---|
 | [riccardopinato/App-Factory-Agent-Core](https://github.com/riccardopinato/App-Factory-Agent-Core) | Orchestratore riutilizzabile | `main` | [`f2b4c28cc3a9`](https://github.com/riccardopinato/App-Factory-Agent-Core/commit/f2b4c28cc3a9afa4ef39c6d32fe0a8ef14dac512) | 2026-11-13T19:37:34Z |
-| [riccardopinato/App-Factory-Core](https://github.com/riccardopinato/App-Factory-Core) | Policy generale | `main` | [`ede07c491e58`](https://github.com/riccardopinato/App-Factory-Core/commit/ede07c491e586215598ff68daec43e17d699aa51) | 2026-11-21T14:10:09Z |
+| [riccardopinato/App-Factory-Core](https://github.com/riccardopinato/App-Factory-Core) | Policy generale | `main` | [`495d0ced06b6`](https://github.com/riccardopinato/App-Factory-Core/commit/495d0ced06b6b0613bdeb0d4d680ff99562ab808) | 2026-11-24T14:01:25Z |
 | [riccardopinato/Idee-app-Archivi-riferimenti](https://github.com/riccardopinato/Idee-app-Archivi-riferimenti) | Dossier finanziario e backlog | `main` | [`5cc0cedc0423`](https://github.com/riccardopinato/Idee-app-Archivi-riferimenti/commit/5cc0cedc042379f19cde7b39dfd463d8354875dd) | 2026-11-21T10:29:36Z |
 
 I cambiamenti indicano nuovi commit, non modifiche automaticamente approvate o importate nei moduli.
